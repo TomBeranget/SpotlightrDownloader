@@ -1,5 +1,6 @@
 # SpotlightrDownloader
 Easy way to download "Advanced HLS Encrypted videos" from www.spotlightr.com.
+
 Permet de télécharger des vidéos chiffrées par jetons d'accès polymorphes depuis www.spotlightr.com.
 ## Fonctionnalitées
 
